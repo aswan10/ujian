@@ -1,0 +1,35 @@
+Author: Aswan Rezpector
+http://aswanrezpector.dev.php.or.id/
+
+First Commit : Arly Anugrah
+
+
+
+
+ALIKASI UJIAN ONLINE "sederhana"
+
+Aplikasi ini ditujukan untuk pembelajaran bukan untuk komersil, latihan ini bisa disebarkan untuk pembelajaran seluas-luasnya dengan tidak menghapus/menghilangkan/menambah content yg menciderai author.
+
+Alikasi ini ditujukan untuk ujian online sederhana, latihan soal dan latihan yang lainnya.
+
+Alikasi ini berbentuk Pilihan Ganda.
+
+Jika ada bug bisa di diskusikan bersama.
+
+// Cara Kerja Sistem :
+ * USER *
+ - Login default -> username: user, password: user
+ - Kerjakan Soal sesuai kelas dan soal matapelajaran yang sudah ada
+ - Soal akan tampil sesuai dengan kelas masing-masing
+ - Per Soal Matapelajaran hanya bisa dikerjakan satu kali pengerjaan
+ 
+ * ADMIN *
+ - Login default -> username: admin, password: admin
+ - Ada banyak content master yang bisa di atur sesuai kebutuhan seperti: Modul User, Kelas, Matapelajaran, Soal, Nilai.
+//
+
+ *Catatan: Tampilan soal satu halaman sekali view. 
+
+- Alikasi ini sederhana dan maafkan kalau masih banyak kekurangan :) 
+
+- Salam, Indahnya Berbagi ^_^ -
